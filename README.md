@@ -1,6 +1,6 @@
 # PyAnime
 
-PyAnime is a multithreaded download manager, currently it is configured to donwload anime media files from a source on the internet. It could be modified to download any file, modify the source according to your application. This code is based on the pyloader module for python3 you may check pyloader manual for goodies.
+PyAnime is a multithreaded download manager, currently it is configured to download anime media files from a source on the internet. It could be modified to download any file, modify the source according to your application. This code is based on the pyloader module for python3 you may check pyloader manual for goodies.
 
 #### Installation
 Clone the repository:
